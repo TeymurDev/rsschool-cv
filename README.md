@@ -1,1 +1,1 @@
-https://TeymurDev.github.io/rsschool-cv/cv
+https://TeymurDev.github.io/rsschool-cv/cv.md

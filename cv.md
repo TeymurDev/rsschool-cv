@@ -49,5 +49,15 @@ let onlyCapitalLetters = str => str.toUpperCase();
 | Edulearn    | HTML5, SASS, Bootstrap, JavaScript, jQuery | [Edulearn](https://github.com/TeymurDev/Front-End-Website-Edulearn)    |
 | Headphones  | HTML5, CSS3                                | [Headphones](https://github.com/TeymurDev/Front-End-Headphones-Page)   |
 
+### Education
+#### University
+Relevant modules:
+* Finance
+* Strategic Management
+* Essentials of Marketing
+* Global Business
+* Accounting
 
+### English Language
+* Fluent
 

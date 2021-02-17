@@ -8,6 +8,12 @@
     margin-right: auto;
 }
 
+/* name surname section */
+
+.name-surname { margin-top: 50px; }
+
+.name-surname .item { padding-left: 10px; }
+
 /* header  */
 
 header { text-align: center; }

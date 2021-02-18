@@ -14,6 +14,20 @@
 
 .name-surname .item { padding-left: 10px; }
 
+/* contact information section  */
+
+.contact-information .list { margin-top: 5px; }
+
+.contact-information .item { padding-right: 5px; }
+
+
+/* body */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
 /* header  */
 
 header { text-align: center; }

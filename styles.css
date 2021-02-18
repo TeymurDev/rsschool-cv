@@ -30,9 +30,11 @@
 /* code examples section  */
 
 .code-examples .code-item {
-    background-color: #eee;
+    background-color: #f6f8fa;
     display: block;
   }
+
+.code-examples .code-margin { margin-top: -38px; }
 
 /* body */
 

@@ -27,6 +27,13 @@
     letter-spacing: 3px;
 }
 
+/* code examples section  */
+
+.code-examples .code-item {
+    background-color: #eee;
+    display: block;
+  }
+
 /* body */
 
 body {

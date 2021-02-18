@@ -36,11 +36,32 @@
 
 .code-examples .code-margin { margin-top: -38px; }
 
+/* work experience section  */
+
+.work-experience .table-item { 
+    width: 500px; 
+    font-size: 14px;
+}
+
+.work-experience .th-item { padding: 5px; }
+
+.work-experience .td-item { padding: 5px; }
+
+.work-experience .td-bg { background-color: #f6f8fa; }
+
+.table-item, 
+.th-item, 
+.td-item {
+    border: 1px solid #dfe2e5;
+    border-collapse: collapse;
+  }
+
 /* body */
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 25px;
+    color: #24292e;
 }
 
 /* header  */

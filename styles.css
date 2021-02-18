@@ -12,13 +12,13 @@
 
 .name-surname { margin-top: 50px; }
 
-.name-surname .item { padding-left: 10px; }
+.name-surname .span-item { padding-left: 10px; }
 
 /* contact information section  */
 
-.contact-information .list { margin-top: 5px; }
+.contact-information .li-item { margin-top: 5px; }
 
-.contact-information .item { padding-right: 5px; }
+.contact-information .strong-item { padding-right: 5px; }
 
 
 /* body */

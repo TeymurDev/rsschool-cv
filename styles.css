@@ -20,6 +20,12 @@
 
 .contact-information .strong-item { padding-right: 5px; }
 
+/* personal summary section  */
+
+.personal-summary .p-item { 
+    font-style: italic; 
+    letter-spacing: 3px;
+}
 
 /* body */
 

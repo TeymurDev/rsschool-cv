@@ -27,7 +27,13 @@
     letter-spacing: 3px;
 }
 
+/* skills section  */
+
+.skills { margin-top: 50px; }
+
 /* code examples section  */
+
+.code-examples { margin-top: 50px; }
 
 .code-examples .code-item {
     background-color: #f6f8fa;
@@ -55,6 +61,17 @@
     border: 1px solid #dfe2e5;
     border-collapse: collapse;
   }
+
+/* education section  */
+
+.education { margin-top: 50px; }
+
+/* english language section  */
+
+.english-language { 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
 
 /* body */
 
